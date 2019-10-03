@@ -1,0 +1,9 @@
+0,1,a
+A,B,C,D,E
+A
+E
+B,-,-
+C,C,C
+D,E,D
+B,B,B
+B,B,B
